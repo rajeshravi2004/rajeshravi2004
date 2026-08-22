@@ -32,12 +32,7 @@
 
 <br />
 
-<img src="./assets/activity-heading.svg" width="100%" alt="GitHub activity" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajeshravi2004&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE" alt="Rajesh's GitHub statistics" />
-<img height="180" src="https://streak-stats.demolab.com?user=rajeshravi2004&hide_border=true&background=050816&stroke=1E293B&ring=22D3EE&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" alt="Rajesh's GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshravi2004&bg_color=050816&color=94A3B8&line=22D3EE&point=A78BFA&area=true&area_color=0E7490&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Rajesh's contribution activity graph" />
+<img src="./assets/activity-heading.svg" width="100%" alt="Professional activity — daily company engineering happens in private repositories through a separate work account" />
 
 <br />
 
@@ -53,6 +48,8 @@
 <summary><strong>Profile details in text</strong></summary>
 
 I am **Rajesh R**, a Full Stack Developer from Tamil Nadu, India, with **1+ year of hands-on experience**. I currently work as a **Junior Full Stack Developer at Mittai Healthcare Private Limited**, building CareScribe healthcare workflows with React, Node.js, Express, Python, PostgreSQL, WebSockets, Google Cloud Storage, and Pub/Sub. I hold a BE in Information Technology from Annamalai University with an **8.73 OGPA**.
+
+My daily professional development happens in private company repositories through a separate work GitHub account, so that activity is not represented by the public contribution graph on this personal profile.
 
 I am interested in full-stack roles, healthcare technology, AI-integrated products, and teams that value engineering quality and real user impact.
 

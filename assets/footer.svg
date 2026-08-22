@@ -1,9 +1,11 @@
-<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Build, ship, improve</title><desc id="desc">Animated footer celebrating full stack, AI, and healthcare engineering.</desc>
-  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#030712"/><stop offset=".5" stop-color="#081527"/><stop offset="1" stop-color="#100820"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <rect x="1" y="1" width="998" height="148" rx="18" fill="url(#bg)" stroke="#334155"/>
-  <path d="M40 26H960" stroke="url(#line)" stroke-width="2" stroke-dasharray="90 830" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-1840" dur="5s" repeatCount="indefinite"/></path>
-  <text x="500" y="69" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="25" font-weight="800" letter-spacing="7">BUILD  •  SHIP  •  IMPROVE</text>
-  <text x="500" y="103" text-anchor="middle" fill="#7DD3FC" font-family="Segoe UI, Arial" font-size="13" font-weight="600" letter-spacing="4">FULL STACK  ×  AI  ×  HEALTHCARE</text>
-  <circle cx="480" cy="127" r="2.5" fill="#22D3EE"><animate attributeName="cx" values="420;580;420" dur="4s" repeatCount="indefinite"/></circle><circle cx="520" cy="127" r="2.5" fill="#A78BFA"><animate attributeName="cx" values="580;420;580" dur="4s" repeatCount="indefinite"/></circle>
+<svg width="1000" height="205" viewBox="0 0 1000 205" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something useful</title><desc id="desc">Rajesh is open to full stack, healthcare technology, and AI-integrated product opportunities.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#030712"/><stop offset=".5" stop-color="#071426"/><stop offset="1" stop-color="#100820"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="998" height="203" rx="20" fill="url(#bg)" stroke="#1E3A5F"/>
+  <path d="M40 25H960" stroke="url(#line)" stroke-width="2" stroke-dasharray="90 830" filter="url(#g)"><animate attributeName="stroke-dashoffset" values="0;-1840" dur="5s" repeatCount="indefinite"/></path>
+  <text x="500" y="63" text-anchor="middle" fill="#67E8F9" font-family="Segoe UI, Arial" font-size="10" font-weight="700" letter-spacing="3">LET'S BUILD SOMETHING USEFUL</text>
+  <text x="500" y="103" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="24" font-weight="800" letter-spacing="6">BUILD  •  SHIP  •  IMPROVE</text>
+  <text x="500" y="135" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial" font-size="12" letter-spacing="1">Open to full-stack roles, healthcare technology, and AI-integrated products.</text>
+  <text x="500" y="169" text-anchor="middle" fill="#C4B5FD" font-family="Segoe UI, Arial" font-size="12" font-weight="650" letter-spacing="3">FULL STACK  ×  AI  ×  HEALTHCARE</text>
+  <circle cx="480" cy="187" r="2.5" fill="#22D3EE"><animate attributeName="cx" values="420;580;420" dur="4s" repeatCount="indefinite"/></circle><circle cx="520" cy="187" r="2.5" fill="#A78BFA"><animate attributeName="cx" values="580;420;580" dur="4s" repeatCount="indefinite"/></circle>
 </svg>

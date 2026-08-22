@@ -1,0 +1,8 @@
+<svg width="1000" height="105" viewBox="0 0 1000 105" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity</title><desc id="desc">Live GitHub statistics, streak, and contribution activity.</desc>
+  <defs><linearGradient id="bg" x2="1"><stop stop-color="#050816"/><stop offset="1" stop-color="#0B1022"/></linearGradient></defs>
+  <rect x="1" y="1" width="998" height="103" rx="18" fill="url(#bg)" stroke="#1E3A5F"/>
+  <text x="34" y="38" fill="#67E8F9" font-family="Segoe UI, Arial" font-size="11" font-weight="700" letter-spacing="2.5">05 / GITHUB ACTIVITY</text>
+  <text x="34" y="75" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="25" font-weight="750">Consistency, experiments, and shipped code.</text>
+  <circle cx="934" cy="53" r="5" fill="#22D3EE"><animate attributeName="opacity" values="1;.25;1" dur="1.7s" repeatCount="indefinite"/></circle><text x="917" y="57" text-anchor="end" fill="#64748B" font-family="Segoe UI, Arial" font-size="10" font-weight="700" letter-spacing="1">LIVE</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rajesh R — Full Stack Developer</title>
+  <desc id="desc">Animated dark futuristic profile banner for Rajesh R, a full stack developer working in AI and healthcare.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#030712"/><stop offset="0.52" stop-color="#071225"/><stop offset="1" stop-color="#120A25"/></linearGradient>
+    <linearGradient id="brand" x1="260" y1="85" x2="740" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset="0.48" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/><animate attributeName="x1" values="180;360;180" dur="6s" repeatCount="indefinite" /></linearGradient>
+    <radialGradient id="cyanOrb"><stop stop-color="#22D3EE" stop-opacity="0.45"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="violetOrb"><stop stop-color="#8B5CF6" stop-opacity="0.4"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#38BDF8" stroke-opacity="0.07" stroke-width="1"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="panel"><rect width="1000" height="340" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="1000" height="340" rx="24" fill="url(#bg)"/><rect width="1000" height="340" fill="url(#grid)"/>
+    <circle cx="100" cy="80" r="230" fill="url(#cyanOrb)"><animate attributeName="r" values="190;250;190" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".65;1;.65" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="270" r="245" fill="url(#violetOrb)"><animate attributeName="r" values="245;190;245" dur="8s" repeatCount="indefinite"/></circle>
+    <g stroke="#22D3EE" stroke-opacity="0.32" fill="none"><path d="M-40 267C165 196 231 324 442 238S739 111 1045 186" stroke-dasharray="10 18"><animate attributeName="stroke-dashoffset" values="0;-280" dur="9s" repeatCount="indefinite"/></path><path d="M-20 292C193 222 295 352 520 259S809 147 1030 213" stroke="#A78BFA" stroke-opacity="0.22" stroke-dasharray="4 16"><animate attributeName="stroke-dashoffset" values="0;240" dur="11s" repeatCount="indefinite"/></path></g>
+    <g fill="#67E8F9"><circle cx="80" cy="190" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="177" cy="51" r="1.5"><animate attributeName="opacity" values="1;.15;1" dur="3.1s" repeatCount="indefinite"/></circle><circle cx="853" cy="77" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="928" cy="196" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3.6s" repeatCount="indefinite"/></circle></g>
+    <rect x="34" y="28" width="172" height="30" rx="15" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.35"/><circle cx="54" cy="43" r="5" fill="#34D399" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle><text x="69" y="48" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">AVAILABLE FOR WORK</text>
+    <text x="500" y="116" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="5">HELLO, I AM</text>
+    <text x="500" y="190" text-anchor="middle" fill="url(#brand)" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="5" filter="url(#glow)">RAJESH R</text>
+    <text x="500" y="228" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">FULL STACK DEVELOPER</text>
+    <text x="500" y="260" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">FULL STACK  ×  AI  ×  HEALTHCARE</text>
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1"><g transform="translate(34 290)"><rect width="96" height="27" rx="13.5" fill="#071A26" stroke="#22D3EE" stroke-opacity=".3"/><text x="48" y="18" text-anchor="middle" fill="#67E8F9">REACT</text></g><g transform="translate(140 290)"><rect width="96" height="27" rx="13.5" fill="#071A26" stroke="#22D3EE" stroke-opacity=".3"/><text x="48" y="18" text-anchor="middle" fill="#67E8F9">NODE.JS</text></g><g transform="translate(764 290)"><rect width="96" height="27" rx="13.5" fill="#160D2C" stroke="#A78BFA" stroke-opacity=".35"/><text x="48" y="18" text-anchor="middle" fill="#C4B5FD">PYTHON</text></g><g transform="translate(870 290)"><rect width="96" height="27" rx="13.5" fill="#160D2C" stroke="#A78BFA" stroke-opacity=".35"/><text x="48" y="18" text-anchor="middle" fill="#C4B5FD">GEMINI AI</text></g></g>
+    <rect y="0" width="1000" height="2" fill="url(#brand)"><animate attributeName="x" values="-1000;1000" dur="4s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="23.5" stroke="#38BDF8" stroke-opacity="0.22"/>
+</svg>

@@ -1,103 +1,85 @@
-<h1 align="center">Hi, I'm Rajesh R 👋</h1>
+<h1 align="center">Rajesh R</h1>
 
 <p align="center">
-  <strong>Junior Full Stack Developer · Healthcare Technology · AI-Integrated Products</strong>
+  <strong>Full-Stack & AI Engineer | Healthcare Platforms | RAG | Cloud & DevSecOps</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-ravi-22684130b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ravirajesh988@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/rajeshravi2004/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Repository-17244A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://rajeshportfolio-olive.vercel.app">Portfolio</a> &bull;
+  <a href="https://www.linkedin.com/in/rajesh-ravi-22684130b/">LinkedIn</a> &bull;
+  <a href="mailto:ravirajesh988@gmail.com">Email</a>
 </p>
 
-## About me
+## What I build
 
-I am a full-stack developer from Tamil Nadu, India, with 1+ year of experience building healthcare workflows, responsive interfaces, backend APIs, real-time systems, and AI-assisted products.
+I build production software across the full delivery path: product interfaces, backend services, AI/RAG pipelines, automated quality gates, and cloud deployment. My current work is in healthcare technology, where correctness, privacy, reliability, and clear clinical workflows matter.
 
-- 💼 Junior Full Stack Developer at **Mittai Healthcare Private Limited**
-- 🏥 Building **CareScribe**, a medical transcription platform that converts doctor-patient conversations into structured clinical documents
-- 🎓 BE in Information Technology from **Annamalai University** — **8.73 OGPA**
-- 🤖 Interested in full-stack engineering, healthcare technology, LLM integrations, automation, and cloud-backed systems
-- 🌱 Focused on maintainable code, dependable APIs, useful product experiences, and reliable deployments
+At **Mittai Healthcare**, I contribute to **CareScribe** across three React and NestJS applications. My work includes clinical and administrative workflows, LLM-assisted features, billing and usage analytics, real-time communication, API security, regression automation, and Kubernetes release infrastructure.
 
-## What I work with
+## Engineering strengths
 
-### Frontend
+- **Full-stack product engineering:** React, Next.js, TypeScript, Node.js, NestJS, Python, FastAPI, Django, REST APIs, and WebSockets
+- **Applied AI and retrieval:** RAG, Qdrant, FAISS, Gemini, LangChain, LlamaIndex, embeddings, prompt/context engineering, retrieval fusion, structured outputs, and response validation
+- **Cloud and delivery:** Google Cloud, Cloud Build, Docker, Kubernetes, GitHub Actions, Harbor, configuration/secrets separation, health checks, rollback-aware deployments, and CI/CD
+- **Quality engineering:** Playwright, Vitest, Pytest, Selenium, contract tests, smoke/regression/lifecycle suites, test evidence, and production-safe test guards
+- **Security engineering:** OWASP-oriented testing, API hardening, JWT/RBAC, authorization boundaries, auditability, secure uploads, scope enforcement, and static analysis
+- **Automation and data extraction:** authenticated web workflows, HTTPX, Beautiful Soup, browser automation, structured extraction, CSV/SQLite pipelines, and resilient retries
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+Earlier academic and personal work also includes **blockchain/Web3** and **IoT prototypes**. Those original repositories belonged to a suspended account, so my current profile emphasizes the systems I can demonstrate and maintain today.
 
-### Backend and data
+## Selected work
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### CareScribe - production healthcare platform
 
-### Cloud, DevOps, and AI
+Engineering across clinical documentation, OPD/IPD workflows, AI-assisted responses, audio and real-time flows, dashboards, billing, authentication, and deployment. I also helped build a multi-application Playwright regression architecture and Docker/Kubernetes release workflows with health checks and rollback safeguards.
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+`React` `TypeScript` `NestJS` `Python` `PostgreSQL` `Redis` `Qdrant` `Gemini` `GCP` `Docker` `Kubernetes` `Playwright`
 
-I also work with REST APIs, Pub/Sub, Cloud Storage, Redis, FAISS, LangChain, Swagger/OpenAPI, Postman, Playwright, and Selenium.
+### Clinical AI Platform - private architecture project
 
-## Professional focus
+A HIMS and clinical-agent platform with explicit service ownership: NestJS for authoritative clinical workflows, FastAPI for isolated agent workloads, Qdrant for derived retrieval data, PostgreSQL migrations as the schema source of truth, and human-reviewed agent proposals before clinical mutation.
 
-At Mittai Healthcare, I work across React, Node.js, Express, Python, PostgreSQL, WebSockets, Google Cloud Storage, and Pub/Sub to build healthcare workflows for OPD sheets, IPD documentation, and discharge summaries. My work includes LLM integration, API security, real-time communication, documentation, and deployment infrastructure.
+`NestJS` `FastAPI` `React` `PostgreSQL` `Prisma` `Qdrant` `FHIR` `RBAC` `Audit Logs`
 
-## Featured projects
+### Authorized Security Testing Platform - private project
+
+A scope-enforced web/API assessment platform with an async scan engine, crawler, extensible security plugins, evidence and findings, reports, retesting, and lab regression coverage. It is designed only for explicitly authorized targets.
+
+`FastAPI` `React` `SQLAlchemy` `PostgreSQL` `HTTPX` `Playwright` `Docker` `OWASP WSTG`
 
 ### [AI Assistant with Document Analysis](https://github.com/rajeshravi2004/rajesh-chatbot)
 
-A dual-mode AI assistant for general conversation and document-based question answering. It supports document uploads, real-time indexing, FAISS vector search, session-based chat, authentication, and export functionality.
+A document-grounded assistant supporting multi-format ingestion, vector indexing, semantic retrieval, session-based chat, authentication, and conversation export.
 
-**Stack:** Python, FastAPI, Google Gemini AI, LangChain, FAISS, React
+`Python` `FastAPI` `Gemini` `LangChain` `FAISS` `Sentence Transformers`
+
+### [Portfolio](https://github.com/rajeshravi2004/Portfolio)
+
+A responsive developer portfolio presenting product engineering, AI, automation, cloud, and project work.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Vercel`
 
 ### [Resume Builder](https://github.com/rajeshravi2004/Resume-Builder)
 
-A full-stack resume builder with editable content, multiple templates, live previews, JSON import/export, custom HTML templates, and PDF/DOCX generation.
+A full-stack resume studio with editable sections, multiple templates, live preview, structured import/export, and PDF/DOCX generation.
 
-**Stack:** React, Node.js, JavaScript, Puppeteer, DOCX
-
-### [Rajify — Desktop Music Player](https://github.com/rajeshravi2004/RajAudios)
-
-A Spotify-inspired desktop music player with YouTube-powered discovery, playlist management, favorites, queue controls, shuffle and repeat modes, persistent settings, and Windows desktop packaging.
-
-**Stack:** React 19, Electron, Vite, YouTube API, Tailwind CSS
-
-### [Zoro's Shop — AI-Powered E-Commerce](https://github.com/rajeshravi2004/zoroshop)
-
-An e-commerce platform with a product catalog, shopping cart, authentication, Stripe payments, vector search, and a voice-enabled Gemini AI assistant with site-wide knowledge.
-
-**Stack:** Django 5, Python, Google Gemini AI, FAISS, Stripe, Tailwind CSS
+`React` `Node.js` `Puppeteer` `DOCX`
 
 ## Experience
 
-- **Junior Full Stack Developer** — Mittai Healthcare Private Limited *(Jul 2025 – Present)*
-- **Fullstack Intern Developer** — Mittai Healthcare Private Limited *(Mar 2025 – Jun 2025)*
-- **AI/ML Internship Scholar** — AIIRF-EDII *(Jun 2024 – Jul 2024)*
-- **UI/UX Internship Scholar** — AIIRF-EDII *(Jun 2023 – Jul 2023)*
+- **Junior Full Stack Developer**, Mittai Healthcare Private Limited - Jul 2025 to present
+- **Full-Stack Developer Intern**, Mittai Healthcare Private Limited - Mar 2025 to Jun 2025
+- **AI/ML Internship Scholar**, AIIRF-EDII - Jun 2024 to Jul 2024
+- **UI/UX Internship Scholar**, AIIRF-EDII - Jun 2023 to Jul 2023
 
-## Let's connect
+## Education
 
-I am open to full-stack development roles, healthcare technology projects, AI-integrated applications, and opportunities where clean implementation and practical product thinking matter.
+**BE, Information Technology** - Annamalai University, 2021-2025 - 8.73 OGPA
 
-- **LinkedIn:** [Rajesh R](https://www.linkedin.com/in/rajesh-ravi-22684130b/)
-- **Email:** [ravirajesh988@gmail.com](mailto:ravirajesh988@gmail.com)
-- **Location:** Tamil Nadu, India
+## Connect
+
+I am interested in full-stack, AI application, platform, and healthcare engineering opportunities where I can own features from design through reliable deployment.
+
+- [LinkedIn](https://www.linkedin.com/in/rajesh-ravi-22684130b/)
+- [Portfolio](https://rajeshportfolio-olive.vercel.app)
+- [Email](mailto:ravirajesh988@gmail.com)
